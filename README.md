@@ -1,4 +1,3 @@
 # Star Wars Repo
-![.\IBM.png](Teste label)
-
+![Teste Label](./IBM.png)
 Este repositório é um teste para o curso de git e git hub
