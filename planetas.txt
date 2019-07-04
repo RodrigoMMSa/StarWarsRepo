@@ -2,4 +2,5 @@ Alderaan
 Coruscant
 Endor
 Hoth
-novo planeta
+novo planeta com alteração
+não troque na master
